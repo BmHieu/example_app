@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "felixangelov.bloc",
+        "nash.awesome-flutter-snippets",
+        "dart-code.dart-code",
+        "luanpotter.dart-import",
+        "dart-code.flutter",
+        "apin.flutter-internationalize",
+        "github.copilot",
+        "esbenp.prettier-vscode",
+        "jeroen-meijer.pubspec-assist",
+        "gruntfuggly.todo-tree",
+        "zainchen.json"
+    ]
+}
